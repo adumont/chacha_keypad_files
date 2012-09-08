@@ -269,8 +269,8 @@ key PERIOD {
     number:                             '.'
     base:                               '.'
     shift, capslock:                    '.'
-    alt:                                ':'
-    shift+alt:                          ':'
+    alt:                                '.'
+    shift+alt:                          '.'
 }
 
 key AT {
