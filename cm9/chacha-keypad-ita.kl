@@ -46,7 +46,7 @@ key 115   VOLUME_UP         WAKE
 #key 184   EXPLORER
 key 42    SHIFT_LEFT
 key 37    K
-key 15    STAR
+key 185    STAR
 key 24    O
 key 105   DPAD_LEFT
 key 114   VOLUME_DOWN       WAKE
@@ -111,5 +111,3 @@ key 11    0
 # key 231   CALL              WAKE_DROPPED
 # key 232   DPAD_CENTER       WAKE_DROPPED
 # key 399   GRAVE
-
-key 185 TAB
